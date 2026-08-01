@@ -1,5 +1,5 @@
 # Severity Classification
-''' solely for SAIG audition '''
+''' solely for SAIG audition ''' <br>
 utilizing features like time_period, agency, province, first_vehicle, cause, accident_type, weather, road_type, road_slope to predict severity of the accident
 # The Evaluation
 ''' 
@@ -16,5 +16,4 @@ utilizing features like time_period, agency, province, first_vehicle, cause, acc
    macro avg       0.28      0.32      0.27     21974
 weighted avg       0.52      0.44      0.46     21974
 
-Macro F1: 0.2739791812736472
-'''
+Macro F1: 0.2739791812736472 '''
