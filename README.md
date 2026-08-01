@@ -91,7 +91,7 @@ print("พร้อมแล้วพร้อมแล้วตื่นเต�
 ```
 ## Cheat Sheet
 
-> === time_period (5 unique values) === <br>
+=== time_period (5 unique values) === <br>
 ['Afternoon', 'Dawn', 'Morning', 'Night', 'Dusk'] <br>
 
 === province (77 unique values) === <br>
