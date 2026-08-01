@@ -30,7 +30,6 @@ import joblib
 import io
 
 # model class definition
-
 class AccidentSeverityModel:
     REQUIRED_FIELDS = [
         'time_period', 'province', 'agency', 'first_vehicle',
@@ -86,7 +85,7 @@ response = requests.get(url)
 response.raise_for_status()
 
 severity_model = joblib.load(io.BytesIO(response.content))
-print("Model loaded.")
+print("พร้อมแล้วพร้อมแล้วตื่นเต้นตื่นเต้น><!")
 ```
 
 ```
