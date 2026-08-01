@@ -1,6 +1,7 @@
 # Severity Classification
 > solely for SAIG audition <br>
-utilizing features like time_period, agency, province, first_vehicle, cause, accident_type, weather, road_type, road_slope to predict severity of the accident
+
+utilizing features like **time_period, agency, province, first_vehicle, cause, accident_type, weather, road_type, road_slope** to predict severity of the accident
 # The Evaluation
 ```
               precision    recall  f1-score   support
