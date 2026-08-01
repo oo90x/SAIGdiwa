@@ -87,7 +87,9 @@ response = requests.get(url)
 response.raise_for_status()
 
 severity_model = joblib.load(io.BytesIO(response.content))
+print("\n3============================================D")
 print("พร้อมแล้วพร้อมแล้วตื่นเต้นตื่นเต้น><!")
+print("3============================================D")
 ```
 ## Cheat Sheet
 
