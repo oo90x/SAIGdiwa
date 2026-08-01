@@ -1,8 +1,8 @@
 # Severity Classification
-''' solely for SAIG audition ''' <br>
+> solely for SAIG audition <br>
 utilizing features like time_period, agency, province, first_vehicle, cause, accident_type, weather, road_type, road_slope to predict severity of the accident
 # The Evaluation
-''' 
+```
               precision    recall  f1-score   support
 
            0       0.66      0.63      0.64      9769
@@ -16,4 +16,7 @@ utilizing features like time_period, agency, province, first_vehicle, cause, acc
    macro avg       0.28      0.32      0.27     21974
 weighted avg       0.52      0.44      0.46     21974
 
-Macro F1: 0.2739791812736472 '''
+Macro F1: 0.2739791812736472
+```
+# Comments
+This was very fun experience and showed how much more I can learn in fields of machine learning. Like there are so much more room for improvement. I would love to study more deeply into every topics of machine learning cause I was so fascinated by how the algorythms are working and also cleaning, EDA the data is such a great visualization of how data can be use to the greater potential. 
