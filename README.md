@@ -24,6 +24,8 @@ This was very fun experience and showed how much more I can learn in fields of m
 
 # Try
 ```
+# install dependency
+!pip install category_encoders
 # import library
 import requests
 import joblib
